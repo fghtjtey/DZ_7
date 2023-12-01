@@ -51,3 +51,11 @@ p {
 
 git config --global user.name "Madina"
 git config --global user.email "madinanuriddinova949@gmail.com"
+git init
+git add .
+git commit -m "DZ"
+git branch -M main
+git remote add origin https://github.com/fghtjtey/DZ.git
+                              git push -u origin main
+
+
